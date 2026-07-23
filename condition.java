@@ -9,6 +9,8 @@ public class condition {
     //    else{
      //       System.out.println("Not adult");
     //    }
+
+    // this is the code for conditional statements in java
       switch(button){
         case 1 : System.out.println("Namste");
         break;
@@ -16,6 +18,8 @@ public class condition {
         break;
         case 3: System.out.println("bonjouur");
         break;
+
+        // akldfjlkasdjflk
         default : System.out.println("invalid button");
       }  
 
